@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "project-2"
+    },
+    {
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t2.micro"   
+    },
+    {
+        "ParameterKey": "AmiId",
+		"ParameterValue": "ami-05a175f99c95ad8a7"
+    }
+]
